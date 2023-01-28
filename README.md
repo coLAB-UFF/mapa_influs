@@ -2,6 +2,7 @@
 
 Landpage and public dashboard of the project "Mapeamento de Influenciadores Locais" (Local Influencers Map). Dashboard and report provide information on political influencers from medium and small cities in Brazilian territory on four different platforms: Twitter, Facebook, Instagram and TikTok.
 
+Please refer to [colab-uff.github.io/mapa_influs](https://colab-uff.github.io/mapa_influs).
 
 ## Using this data
 
