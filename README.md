@@ -1,6 +1,6 @@
 # mapa_influs
 
-Landpage and public dashboard of the project "Mapeamento de Influenciadores" (Influencers Map). Dashboard and report provide information on political influencers from medium and small cities in Brazilian territory on four different platforms: Twitter, Facebook, Instagram and TikTok.
+Landpage and public dashboard of the project "Mapeamento de Influenciadores Locais" (Local Influencers Map). Dashboard and report provide information on political influencers from medium and small cities in Brazilian territory on four different platforms: Twitter, Facebook, Instagram and TikTok.
 
 
 ## Using this data
